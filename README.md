@@ -1,10 +1,10 @@
 # team-members
 React Based App
 
-#About
+# About
 Single page application to keep track of team members. Utilize both React functional components and bootstrap framework
 
-##Takeaways
+## Takeaways
 1. Prop-drilling is used to pass props to a child component from a parent component. 
 
 2. The *useEffect* hook is used to tell the React component to do something after rendering, such as when the state of a component changes. 
